@@ -1,0 +1,15 @@
+{
+  "name": "blox-fruit-price-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that returns Blox Fruits item prices.",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js",
+    "check": "node --check bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "source": "Server-defined service price list",
+  "currency_note": "All prices are in in-game value notation (M).",
+  "categories": [
+    {
+      "name": "Raids",
+      "items": [
+        { "name": "Normal Raid", "price": "2M per", "notes": null },
+        { "name": "Adv Raid", "price": "5M per", "notes": null },
+        { "name": "Law Raid", "price": "6M per raid", "notes": null },
+        { "name": "Free Raids", "price": "Free", "notes": "Loyal customers only (2+ weeks + previous orders)" }
+      ]
+    },
+    {
+      "name": "Trials / Race",
+      "items": [
+        { "name": "1 Trial", "price": "35M+", "notes": null },
+        { "name": "2 Trials", "price": "60M+", "notes": null },
+        { "name": "3 Trials", "price": "85M+", "notes": null },
+        { "name": "4 Trials", "price": "110M+", "notes": "Training included" },
+        { "name": "Max Race", "price": "170M+", "notes": "Training included" }
+      ]
+    },
+    {
+      "name": "Sea Events",
+      "items": [
+        { "name": "Mirage Island", "price": "55M+", "notes": null },
+        { "name": "Sea Beast (Single)", "price": "3M+", "notes": "Minimum 10" },
+        { "name": "Prehistoric Island", "price": "70M+", "notes": null },
+        { "name": "Leviathan", "price": "170M+", "notes": null },
+        { "name": "Ship Raids (Single)", "price": "4M+", "notes": "Minimum 10" },
+        { "name": "Kitsune Island", "price": "75M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Bosses",
+      "items": [
+        { "name": "Darkbeard", "price": "65M+", "notes": null },
+        { "name": "Cake Prince", "price": "45M+", "notes": null },
+        { "name": "Rip Indra", "price": "60M+", "notes": null },
+        { "name": "Dough King", "price": "70M+", "notes": null },
+        { "name": "Tyrant of the Skies", "price": "35M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Swords",
+      "items": [
+        { "name": "True Triple Katana (Any)", "price": "60M+", "notes": null },
+        { "name": "Tushita", "price": "75M+", "notes": null },
+        { "name": "Yama", "price": "75M+", "notes": null },
+        { "name": "Cursed Dual Katana", "price": "150M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Money (Beli)",
+      "items": [
+        { "name": "1M Beli", "price": "18M", "notes": null },
+        { "name": "2M Beli", "price": "28M", "notes": null },
+        { "name": "3.5M Beli", "price": "38M", "notes": null },
+        { "name": "10M Beli", "price": "75M", "notes": null },
+        { "name": "30M Beli", "price": "330M", "notes": null },
+        { "name": "60M Beli", "price": "420M", "notes": null },
+        { "name": "Beli (Custom Amounts)", "price": "Ticket", "notes": null }
+      ]
+    },
+    {
+      "name": "Mastery",
+      "items": [
+        { "name": "Mastery to 300", "price": "90M+", "notes": null },
+        { "name": "Mastery to 600", "price": "180M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Bounty",
+      "items": [
+        { "name": "3 Kills", "price": "Free", "notes": "2 weeks cooldown" },
+        { "name": "Raging Demon", "price": "110M+", "notes": null },
+        { "name": "500K Bounty", "price": "130M+", "notes": null },
+        { "name": "1M Bounty", "price": "260M+", "notes": null },
+        { "name": "2M Bounty", "price": "500M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Pilot Services",
+      "items": [
+        { "name": "Level Farm", "price": "1.2M per level", "notes": "500+ = discount" },
+        { "name": "Soul Guitar", "price": "140M", "notes": null },
+        { "name": "CDK", "price": "145M", "notes": null },
+        { "name": "Draco Trial", "price": "90M+", "notes": null },
+        { "name": "Blue Gear", "price": "220M+", "notes": null }
+      ]
+    },
+    {
+      "name": "Reset & Builds",
+      "items": [
+        { "name": "Stat Reset", "price": "30M", "notes": null },
+        { "name": "Race Reroll", "price": "45M", "notes": null },
+        { "name": "Build Setup", "price": "25M", "notes": null }
+      ]
+    }
+  ]
+}
